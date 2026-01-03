@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Video Agent",
+  "description": "A real-time video voice agent powered by Gemini 2.5 Flash Native Audio. Experience low-latency conversational AI with video understanding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
